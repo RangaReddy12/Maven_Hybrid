@@ -161,8 +161,8 @@ public static String generateDate()
 }
 public static void add()
 {
-	int a=344,b=98,c;
-	c=a+b;
+	int a=456789,b=42312123,c;
+	c=a/b;
 	System.out.println(c);
 }
 }
