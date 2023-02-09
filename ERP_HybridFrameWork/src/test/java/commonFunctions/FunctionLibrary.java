@@ -159,7 +159,12 @@ public static String generateDate()
 	DateFormat df = new SimpleDateFormat("YYYY_MM_dd");
 	return df.format(date);
 }
-
+public static void add()
+{
+	int a=344,b=98,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
 
 
